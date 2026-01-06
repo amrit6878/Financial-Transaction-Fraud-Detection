@@ -1,35 +1,35 @@
-#💳 Financial Transaction Fraud Detection
+💳 Financial Transaction Fraud Detection
 
-##📌 Project Overview
+📌 Project Overview
 
 This project analyzes financial transaction data to identify fraud patterns, evaluate detection gaps, and present business-ready insights through a simple interactive dashboard.
 Goal: Help fraud and risk teams detect high-risk transactions and reduce financial losses.
 
-##🎯 Business Problem
+🎯 Business Problem
 
 -Rule-based fraud systems often miss fraudulent activities. This project focuses on:
 -Identifying fraud-prone transaction types
 -Analyzing transaction behavior
 -Improving fraud monitoring using data insights
 
-##📂 Dataset
+📂 Dataset
 
 -Source: Kaggle – Financial Transactions Fraud Dataset
 -File: Fraud.csv
 -Target Variable: isFraud
 
-##🛠️ Tools Used
+🛠️ Tools Used
 
 Python (Pandas, NumPy, Matplotlib, Seaborn)
 Tableau / Power BI (Dashboard)
 Excel
 GitHub
 
-##🔄 Workflow:
+🔄 Workflow:
 
 Data Cleaning → EDA → Fraud Analysis → KPIs → Dashboard → Insights
 
-##📈 KPIs
+📈 KPIs
 
 -Total Transactions
 -Fraud Count & Fraud Rate
@@ -37,13 +37,13 @@ Data Cleaning → EDA → Fraud Analysis → KPIs → Dashboard → Insights
 -Fraud by Transaction Type
 -Detection Gap
 
-##📌 Business Recommendations
+📌 Business Recommendations
 
 -Prioritize monitoring TRANSFER & CASH_OUT
 -Flag 100% balance drain transactions
 -Improve rule-based fraud detection
 -Use dashboards for continuous monitoring
 
-##🏁 Conclusion
+🏁 Conclusion
 
 This project demonstrates an end-to-end data analysis workflow for fraud detection and reporting, suitable for Data Analyst and Business Analyst roles.
